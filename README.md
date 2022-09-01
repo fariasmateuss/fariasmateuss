@@ -6,6 +6,4 @@
 
 - 💬 Ask me about **JavaScript, React.js, Ecosystem, Open Source, App Design**
 
-- ⚡ Fun fact **Oneye 😜**
-
 - 👨‍💻 More at [mateusfarias.com.br](https://mateusfarias.com.br)
